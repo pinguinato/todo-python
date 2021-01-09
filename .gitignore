@@ -6,5 +6,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .env
+todo.db
 
 
+todo.db
