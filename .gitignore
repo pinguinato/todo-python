@@ -1,0 +1,10 @@
+vendor/
+__pycache__/
+.idea/
+.vscode/
+.vagrant/
+.DS_Store
+Thumbs.db
+.env
+
+
